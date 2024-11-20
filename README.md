@@ -4,9 +4,9 @@ The repository is organized into the following folders:
 
 1. "main_function" folder:
 This folder contains the primary functions used in our analysis:
-•	SEB_function.R: Implements the proposed semi-empirical Bayes method for computing shrinkage estimation.
-•	Freq_AW_function.R: Implements adaptive weight (AW) method for computing shrinkage estimation.
-•	TwoSampleMR_methods_function.R: Computes causal effect of an exposure on an outcome using two-sample Mendelian Randomization (MR) methods.
+(i) SEB_function.R: Implements the proposed semi-empirical Bayes method for computing shrinkage estimation.
+(ii) Freq_AW_function.R: Implements adaptive weight (AW) method for computing shrinkage estimation.
+(iii) TwoSampleMR_methods_function.R: Computes causal effect of an exposure on an outcome using two-sample Mendelian Randomization (MR) methods.
 
 2. "simulation" folder:
 This folder includes the codes for conducting simulation studies to evaluate the proposed methods.
