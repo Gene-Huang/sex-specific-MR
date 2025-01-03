@@ -1,4 +1,4 @@
-This repository contains R code and summary statistics for implementing the simulations and real data analysis from our work: “A semi-empirical Bayes approach for calibrating weak instrumental bias in sex-specific Mendelian randomization studies”.
+This repository contains R code and summary statistics for implementing the simulations and real data analysis from our work: “A semi-empirical Bayes approach for calibrating weak instrumental bias in sex-specific Mendelian randomization studies”. (check out our preprint on medRxiv: https://www.medrxiv.org/content/10.1101/2025.01.02.25319889v1)
 
 The repository is organized into the following folders:
 
